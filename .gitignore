@@ -1,0 +1,7 @@
+.pio/
+.vscode/
+*.exe
+*.dll
+*.log
+*.tmp
+*.bak
